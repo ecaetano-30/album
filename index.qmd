@@ -1,7 +1,27 @@
 ---
-title: "Albums"
+title: "Featured Albums"
 ---
 
-This is a Quarto website.
+Welcome to our album collection! Click on any album cover to view it in full screen and cycle through the gallery.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+::: {layout-ncol=3}
+![The Beatles – *Abbey Road*](images/the_beatles_abbey_road.jpg){group="albums" description="The Beatles – Abbey Road (1969)"}
+
+![Michael Jackson – *Thriller*](images/michael_jackson_thriller.jpg){group="albums" description="Michael Jackson – Thriller (1982)"}
+
+![Taylor Swift – *1989*](images/taylor_swift_1989.jpg){group="albums" description="Taylor Swift – 1989 (2014)"}
+
+![Fleetwood Mac – *Rumours*](images/fleetwood_mac_rumours.jpg){group="albums" description="Fleetwood Mac – Rumours (1977)"}
+
+![Pink Floyd – *The Dark Side of the Moon*](images/pink_floyd_dark_side_of_the_moon.jpg){group="albums" description="Pink Floyd – The Dark Side of the Moon (1973)"}
+
+![Beyoncé – *Renaissance*](images/beyonce_renaissance.jpg){group="albums" description="Beyoncé – Renaissance (2022)"}
+
+![Adele – *21*](images/adele_21.jpg){group="albums" description="Adele – 21 (2011)"}
+
+![Kendrick Lamar – *To Pimp a Butterfly*](images/kendrick_lamar_to_pimp_a_butterfly.jpg){group="albums" description="Kendrick Lamar – To Pimp a Butterfly (2015)"}
+
+![David Bowie – *The Rise and Fall of Ziggy Stardust*](images/david_bowie_ziggy_stardust.jpg){group="albums" description="David Bowie – The Rise and Fall of Ziggy Stardust (1972)"}
+
+![Billie Eilish – *When We All Fall Asleep, Where Do We Go?*](images/billie_eilish_when_we_all_fall_asleep.jpg){group="albums" description="Billie Eilish – When We All Fall Asleep, Where Do We Go? (2019)"}
+:::
